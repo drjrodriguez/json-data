@@ -3,13 +3,8 @@
     "id": "62dc683d2a07cb0361c4078c",
     "email": "wilda_moody@exosis.miami",
     "username": "wilda91",
-    "profile": {
-      "name": "Wilda Moody",
-      "company": "Exosis",
-      "dob": "1991-02-11",
-      "address": "2 Billings Place, Geyserville, New Hampshire",
-      "about": "Quis et esse proident est qui. Exercitation elit laborum non ut aliqua aliquip occaecat consectetur cillum tempor sunt."
-    },
+    "name": "Wilda Moody",
+    "about": "Quis et esse proident est qui. Exercitation elit laborum non ut aliqua aliquip occaecat consectetur cillum tempor sunt."
   },
   {
     "id": "62dc683dbfee13470f9443ba",
